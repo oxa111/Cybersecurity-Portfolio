@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Configuration and YAML files may be used to install only certain pieces of it, such as Filebeat.
 
-  * [Ansible Configuration] (https://github.com/oxa111/Cybersecurity-Portfolio/blob/ab48a13367f53cb11698447fdd148bae3b0b4a3b/Ansible/ansible.cfg "Ansible Configuration")
+  ..* [Ansible Configuration] (https://github.com/oxa111/Cybersecurity-Portfolio/blob/ab48a13367f53cb11698447fdd148bae3b0b4a3b/Ansible/ansible.cfg "Ansible Configuration")
   *  Ansible Hosts] (https://github.com/oxa111/Cybersecurity-Portfolio/blob/ab48a13367f53cb11698447fdd148bae3b0b4a3b/Ansible/hosts.txt)
   * [Ansible Playbook] (https://github.com/oxa111/Cybersecurity-Portfolio/blob/ab48a13367f53cb11698447fdd148bae3b0b4a3b/Ansible/pentest.yml)
   * [ELK Installation and Configuration] (https://github.com/oxa111/Cybersecurity-Portfolio/blob/ab48a13367f53cb11698447fdd148bae3b0b4a3b/Ansible/install-elk.yml)
