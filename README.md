@@ -77,8 +77,8 @@ The playbook implements the following tasks:
       hosts: elk
      remote_user: RedAdmin
      become: true
-       tasks:          
-'''
+       tasks:    '''      
+
   * The playbook then was configured to install the Docker engine used to run containers, called docker.io.
 
  '   - name: Install docker.io
