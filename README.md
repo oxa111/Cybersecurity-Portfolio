@@ -71,9 +71,9 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 
 The playbook implements the following tasks:
 
-'''  * The first step in the playbook specifies the remote user as RedAdmin and indicates that the hosts in the “elk” group of machines will be configured.  Previously, the IP address of the ELK Server was added in the Ansible hosts file under the “elk” group of machines.  
+  * The first step in the playbook specifies the remote user as RedAdmin and indicates that the hosts in the “elk” group of machines will be configured.  Previously, the IP address of the ELK Server was added in the Ansible hosts file under the “elk” group of machines.  
   
-   name: Configure Elk VM with Docker
+'''name: Configure Elk VM with Docker
    hosts: elk
    remote_user: RedAdmin
    become: true
