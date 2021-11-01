@@ -191,7 +191,7 @@ _As a **Bonus**, provide the specific commands the user will need to run to down
   * Nano ansible.cfg to specify the remote user.
   * ansible-playbook [name of playbook]
 
-The full steps used to create the virtual network infrastructure with a cloud monitoring system can be accessed via the below link:
+The full steps used to create the virtual network infrastructure with a cloud monitoring system can be accessed via the link below:
 
 ![Creating the Virtual Network Environment](https://github.com/oxa111/Cybersecurity-Portfolio/blob/c13f9abfad99f850512260cf5e8ea3448f39bbc1/Creating%20the%20Virtual%20Network%20Environment.pdf)
   
