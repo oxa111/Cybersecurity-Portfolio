@@ -140,7 +140,7 @@ The playbook implements the following tasks:
 
 ```
 
-  * In the final step of the playbook, the port mappings will be defined.
+  * In the final step of the playbook the port mappings will be defined.
 
 ```
         published_ports:
