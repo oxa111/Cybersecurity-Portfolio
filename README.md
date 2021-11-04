@@ -86,6 +86,7 @@ The playbook implements the following tasks:
   * The playbook then was configured to install the Docker engine used to run containers, called docker.io.
 
  ```  
+     # Use apt module
      - name: Install docker.io
        apt:
          update_cache: yes
@@ -128,7 +129,7 @@ The playbook implements the following tasks:
 
   * The playbook will be configured to install the ELK Docker container called sebp/elk:761.
 
-```
+```    # Use docker container module
        name: download and launch a docker elk container
        docker_container:
          name: elk
